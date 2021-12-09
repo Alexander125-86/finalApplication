@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developers">Developers:</string>
+    <string name="about">About</string>
+    <string name="just_see_our_website">Just see our website</string>
+    <string name="spin">Spin</string>
+</resources>

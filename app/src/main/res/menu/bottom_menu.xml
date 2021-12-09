@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/spin"
+        android:icon="@drawable/spin_icon"
+        android:title="@string/spin" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about_icon"
+        android:title="@string/about" />
+
+
+</menu>
